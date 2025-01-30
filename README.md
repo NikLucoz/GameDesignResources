@@ -4,7 +4,7 @@
 [The art of game design](https://www.amazon.it/Art-Game-Design-Lenses-Second/dp/1466598646) <br>
 [Building blocks of boardgames design](https://www.amazon.it/Building-Blocks-Tabletop-Game-Design/dp/1138365521) <br>
 [Theory of fun](https://www.amazon.it/Theory-Game-Design-Raph-Koster/dp/1932111972) <br>
-[Leve up!](https://www.amazon.com/Level-Up-Guide-Great-Design/dp/047068867X) <br>
+[Level up!](https://www.amazon.com/Level-Up-Guide-Great-Design/dp/047068867X) <br>
 [Boardgame design journal](https://amzn.eu/d/cYAThwU) <br>
 
 ## Framework
