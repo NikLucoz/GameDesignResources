@@ -26,5 +26,5 @@ D.A.R.E <br>
 [Vigamus Academy](https://corsi.vigamusacademy.com/home/course/corso-di-game-design-intensivo/1) <br>
 
 ## Calls & Financing
-[EuropaCreativa Media](https://www.europacreativa-media.it/sostegni-finanziari/videogame)
+[EuropaCreativa Media](https://www.europacreativa-media.it/sostegni-finanziari/videogame) <br>
 [Italian Tax Credit](https://iideassociation.com/supporto/tax-credit/)
