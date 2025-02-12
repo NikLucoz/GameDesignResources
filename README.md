@@ -17,25 +17,33 @@
 - **Bartle’s Player Types** (Socializer, Explorer, Achiever, Killer)
 - **SCARF Model** (Status, Certainty, Autonomy, Relatedness, Fairness)
 
+## 🎥 YouTubers & Educatori
+- [Extra Credits](https://www.youtube.com/c/ExtraCreditz) (Game design e narrativa)
+- [Mark Brown - Game Maker’s Toolkit](https://www.youtube.com/c/MarkBrownGMT) (Analisi di game design)
+- [Brackeys](https://www.youtube.com/c/Brackeys) (Tutorial su Unity e sviluppo di giochi)
+- [Sebastian Lague](https://www.youtube.com/c/SebastianLague) (Sperimentazione di game dev e AI)
+- [Design Doc](https://www.youtube.com/c/DesignDoc) (Approfondimenti sul game design)
+- [The Game Overanalyser](https://www.youtube.com/@thegameoveranalyser4835) (Analisi di giochi e narrativa)
+
 ## 🏰 Adventure Design
 - [Handle Rumors](https://youtu.be/QIX2Ry_dP_4?si=NGhbXDKSx6TJsLgj)
 - [GDC Talk: Designing Branching Narratives](https://www.gdcvault.com/play/1025692/Designing-Branching-Narratives-Without)  
 - [Worldbuilding Tips by Extra Credits](https://www.youtube.com/watch?v=ZQTMaxxv74k)
 
 ## 🛠 Game Development Tools
-### **Motori di gioco**
+### **Game Engines**
 - [Unity](https://unity.com/)
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Godot](https://godotengine.org/)
 - [Love2D](https://love2d.org/)
 - [GameMaker](https://gamemaker.io/en)
 
-### **Strumenti di prototipazione**
-- [Twine](https://twinery.org/) (narrazione interattiva)
-- [Ink](https://www.inklestudios.com/ink/) (scrittura interattiva)
-- [Machinations.io](https://machinations.io/) (modelli di game economy)
+### **Prototyping Tools**
+- [Twine](https://twinery.org/) (Interactive storytelling)
+- [Ink](https://www.inklestudios.com/ink/) (Interactive writing)
+- [Machinations.io](https://machinations.io/) (Game economy models)
 
-### **Strumenti di level design**
+### **Level Design Tools**
 - [Tiled](https://www.mapeditor.org/)
 - [MagicaVoxel](https://ephtracy.github.io/)
 
@@ -52,18 +60,18 @@
 ## 💰 Calls & Financing
 - [EuropaCreativa Media](https://www.europacreativa-media.it/sostegni-finanziari/videogame)
 - [Italian Tax Credit](https://iideassociation.com/supporto/tax-credit/)
-- [Lazio Innova (fondo per startup di videogiochi)](https://www.lazioinnova.it/)
+- [Lazio Innova (fund for game development startups)](https://www.lazioinnova.it/)
 
-## 🎮 Eventi e Comunità
-### **Eventi in Italia**
+## 🎮 Events & Communities
+### **Events in Italy**
 - [Svilupparty](https://www.svilupparty.it/)
 - [First Playable](https://www.firstplayable.it/)
-- [Milan Games Week (con area dev)](https://www.milangamesweek.it/)
+- [Milan Games Week (with dev area)](https://www.milangamesweek.it/)
 - [IdeaG](https://www.idea-g.it/)
 - [Lucca Comics & Games](https://www.luccacomicsandgames.com/it/)
 - [Play Bologna](https://www.play-festival.it)
 
-### **Comunità online**
+### **Online Communities**
 - [Indie Dev Italia (Discord)](https://discord.gg/indiedevitalia)
 - [GameMaker Italia](https://www.gamemakeritalia.it/)
 - [Unreal Engine Italia (Facebook Group)](https://www.facebook.com/groups/unrealengineitalia/)
