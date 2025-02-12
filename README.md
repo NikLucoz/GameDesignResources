@@ -72,7 +72,6 @@
 - [Play Bologna](https://www.play-festival.it)
 
 ### **Online Communities**
-- [Indie Dev Italia (Discord)](https://discord.gg/indiedevitalia)
 - [GameMaker Italia](https://www.gamemakeritalia.it/)
 - [Unreal Engine Italia (Facebook Group)](https://www.facebook.com/groups/unrealengineitalia/)
 
